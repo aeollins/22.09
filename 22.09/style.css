@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(94, 125, 152);
+}
+.menu{
+    background-color: rgb(143, 184, 203);
+    height: 50px;
+    padding-top: 35px;
+}
+.a1{
+    color: white;
+    padding-left: 10%;
+}
+.a2{
+    color: white;
+    padding-left: 15%;
+}
+.a3{
+    color: white;
+    padding-left: 15%;
+}
+.a4{
+    color: white;
+    padding-left: 15%;
+}
+.a5{
+    color: white;
+    padding-left: 15%;
+}
+.img{
+    width: 100%;
+}
+.main{
+    display: flex;
+}
+.left{
+    width: 60%;
+    background-color: rgb(106, 173, 176);
+    padding-left: 10px;
+}
+.span1{
+    color: rgb(98, 205, 255);
+}
+.h2{
+    color: rgb(48, 90, 114);
+}
+.right{
+    width: 650px;
+    height: 800px;
+    background-color: rgb(26, 85, 84);
+    margin-left: 2%;
+    padding-left: 15px;
+}
+.h3{
+    color: bisque;
+}
+.p2{
+    color: rgb(183, 117, 37);
+}
